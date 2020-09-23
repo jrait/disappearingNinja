@@ -1,0 +1,17 @@
+#wrapper{
+    margin: 0px auto;
+    text-align: center;
+    background-color: darkslategray;
+    padding: 20px;
+}
+
+img{
+    height: 200px;
+}
+button{
+    padding: 10px;
+    background-image: linear-gradient(to bottom,skyblue,rgb(95, 149, 170));
+    border-radius: 10px;
+    border: 2px solid white;
+    box-shadow: 4px 4px 4px;
+}
